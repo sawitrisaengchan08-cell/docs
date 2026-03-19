@@ -1,3 +1,4 @@
+<img width="720" height="1600" alt="1000020065" src="https://github.com/user-attachments/assets/4adfefdc-7739-4e2f-b606-4dc328a959f3" />
 ---
 title: Responsible use of GitHub Copilot Chat in GitHub
 shortTitle: Chat in GitHub
